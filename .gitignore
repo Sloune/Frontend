@@ -1,0 +1,42 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/inspectionProfiles/
+.idea/workspace.xml
+css_1/Source/
+css_1/css_1/.idea/inspectionProfiles/
+css_1/css_1/fonts/
+css_1/css_1/img/
+css_1/css_1/js/
+htmltags_1/htmltags_1/.idea/inspectionProfiles/
+htmltags_1/htmltags_1/css/
+htmltags_1/htmltags_1/fonts/
+htmltags_1/htmltags_1/img/
+htmltags_1/htmltags_1/js/
+htmltags_1/source/
+htmltags_2/htmltags_2/.idea/inspectionProfiles/
+htmltags_2/htmltags_2/css/
+htmltags_2/htmltags_2/fonts/
+htmltags_2/htmltags_2/img/
+htmltags_2/htmltags_2/js/
+htmltags_2/source/
+htmltags_3/Source/
+htmltags_3/htmltags_3/.idea/inspectionProfiles/
+htmltags_3/htmltags_3/css/
+htmltags_3/htmltags_3/fonts/
+htmltags_3/htmltags_3/img/
+htmltags_3/htmltags_3/js/
+myfirstproject/.idea/inspectionProfiles/
+myfirstproject/myfirstproject/.idea/inspectionProfiles/
+myfirstproject/myfirstproject/css/
+myfirstproject/myfirstproject/fonts/
+myfirstproject/myfirstproject/img/
+myfirstproject/myfirstproject/js/
+myfirstproject/source/
