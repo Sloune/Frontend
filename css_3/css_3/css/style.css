@@ -33,7 +33,8 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 .example-block {
-
+padding: 10px 20px 30px 5px;
+	border: 1px solid #000000;
 }
 .example-string {
 
